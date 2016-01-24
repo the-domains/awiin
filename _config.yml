@@ -1,6 +1,6 @@
 name: AWIIN
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24323
 typography_spectrum: 0.47374
 title: DJ AWIIN
 cta:
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#df070b'
-    - '#069d04'
-    - '#f3c913'
-    - '#fc6df7'
+    - '#ffffff'
+    - '#686765'
+    - '#f22942'
+    - '#60f80d'
   brandStrength: 0
   lightness: 0
   saturation: 1
