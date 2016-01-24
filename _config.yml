@@ -1,0 +1,28 @@
+name: AWIIN
+favicon: null
+layout_spectrum: 0.26879697595722973
+typography_spectrum: 0.6194318167399615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9292443089652807
+  lightness: 0.9876806337852031
+  saturation: 0.969411359867081
+  rhythmicContrast: 0.2335556005127728
+purpose: []
