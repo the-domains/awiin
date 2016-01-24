@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.amsterdam-dance-event.nl'
-  name: Amsterdam Dance Event
-  favicon: 'http://www.amsterdam-dance-event.nl/favicon.ico?1'
-  domain: www.amsterdam-dance-event.nl
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - awiin
   - remixes
@@ -18,19 +16,23 @@ keywords:
   - amersfoort
   - nitozzz
 description: 'AWIIN is a young talent from Rotterdam, born in Suriname, South America. When he was eight years old he came to the Netherlands where his passion for ...'
-inLanguage: en
+datePublished: '2016-01-24T21:40:23.899Z'
+dateModified: '2016-01-24T21:40:20.034Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.amsterdam-dance-event.nl/artists/awiin/4241/'
 title: Awiin - Artists - Amsterdam Dance Event
-datePublished: '2016-01-24T21:27:03.847Z'
-dateModified: '2016-01-24T21:26:32.715Z'
 sourcePath: _posts/2016-01-24-awiin-artists-amsterdam-dance-event.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Amsterdam Dance Event
+  domain: www.amsterdam-dance-event.nl
+  url: 'http://www.amsterdam-dance-event.nl'
+  favicon: 'http://www.amsterdam-dance-event.nl/favicon.ico?1'
+url: awiin-artists-amsterdam-dance-event/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Awiin - Artists - Amsterdam Dance Event</h1><p>AWIIN is a young talent from Rotterdam&amp;comma; born in Suriname&amp;comma; South America&amp;period; When he was eight years old he came to the Netherlands where his passion for &amp;period;&amp;period;&amp;period;</p><img src="http://www.amsterdam-dance-event.nl/static/uploads/images/cache/2013/08/640x853q=90_Awinn_18628_18629_1200x630_90_1_0_t.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/140b9798-fa7f-4539-a5ca-3d1a90cd19b2.jpg)
